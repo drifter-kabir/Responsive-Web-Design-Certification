@@ -1,1 +1,1 @@
-# Responsive-Web-Design-Certification
+The projects I did during the course.
